@@ -2,7 +2,7 @@
 - Project Description: This is a static version of the ASCENDynamics website, a non-profit organization that provides resources to worker-owned cooperatives, startups, and non-profits.
 
 ### Installation:
-- Clone this repository: `git clone https://github.com/your-username/ascendynamics-website.git`
+- Clone this repository: `git clone https://github.com/ASCENDynamics-NFP/static-ascendynamics-website.git`
 - Open the index.html file in your browser.
 
 ### Usage:
