@@ -17,11 +17,11 @@
 - Submit a pull request
 
 ### Credits:
-- Include a list of the contributors and their contributions to the project.
-    - Marcin: Setting up the initial site and organizaton.
-    - Tim: Being a motivating factor.
-    - Nic: Being a motivating factor.
-    - Matt: Being a motivating factor.
+Include a list of the contributors and their contributions to the project.
+  - Marcin: Setting up the initial site and organizaton.
+  - Tim: Being a motivating factor.
+  - Nic: Being a motivating factor.
+  - Matt: Being a motivating factor.
 
 ### License:
-- State the license under which the project is distributed. For example: This project is licensed under the MIT License. See the LICENSE.md file for details.
+This project is licensed under the Apache License 2.0. See the LICENSE.md file for details.
