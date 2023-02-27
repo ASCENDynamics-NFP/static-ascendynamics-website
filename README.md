@@ -17,9 +17,9 @@
 - Submit a pull request
 
 ### Run Locally:
-- Navigate to `static-ascendynamics-website` directory.
-- Python3: `python -m http.server`
-- Use provided URL
+1. Navigate to `static-ascendynamics-website` directory.
+2. Python3: `python -m http.server`
+3. Use provided URL
 
 ### Credits:
 Include a list of the contributors and their contributions to the project.
