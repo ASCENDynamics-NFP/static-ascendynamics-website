@@ -19,6 +19,7 @@
 ### Run Locally:
 - Navigate to `static-ascendynamics-website` directory.
 - Python3: `python -m http.server`
+- Use provided URL
 
 ### Credits:
 Include a list of the contributors and their contributions to the project.
