@@ -16,6 +16,11 @@
 - Push to the branch: `git push origin feature/your-feature-name`
 - Submit a pull request
 
+### Run Locally:
+1. Navigate to `static-ascendynamics-website` directory.
+2. For Python3: run in terminal `python -m http.server`
+3. Use provided URL
+
 ### Credits:
 Include a list of the contributors and their contributions to the project.
   - Marcin: Setting up the initial site and organizaton.
