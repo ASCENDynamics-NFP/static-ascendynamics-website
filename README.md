@@ -18,7 +18,7 @@
 
 ### Run Locally:
 1. Navigate to `static-ascendynamics-website` directory.
-2. Python3: `python -m http.server`
+2. For Python3: run in terminal `python -m http.server`
 3. Use provided URL
 
 ### Credits:
