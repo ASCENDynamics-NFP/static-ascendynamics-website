@@ -9,7 +9,7 @@
     "description": "ASCENDynamics NFP is building an open-source collaboration platform for worker-owned cooperatives, nonprofits, and private organisations. Our mission is to empower organisations with data-driven decision-making tools, fostering sustainable growth and addressing societal challenges.",
     "webpageUrl": {
       "url": "https://ascendynamics.org/",
-      "wellKnown": "https://ascendynamics.org/.well-known/funding-manifest-urls"
+      "wellKnown": "https://app.ascendynamics.org/.well-known/funding-manifest-urls"
     }
   },
   "projects": [
